@@ -19,6 +19,8 @@ Try this : https://movie-recommendation-system-osappp7nt6gjmubef2zf943.streamlit
 - Top most rated movies
 - Distribution of ratings
 
+<img src = "Movie Recom1.png">
+
 ✅ Clean, modern UI with **Streamlit**  
 ✅ Easily deployable on **Streamlit Cloud**
 
