@@ -21,6 +21,10 @@ Try this : https://movie-recommendation-system-osappp7nt6gjmubef2zf943.streamlit
 
 <img src = "Movie Recom1.png">
 
+
+<img src = "Movie Recom2.png">
+
+
 ✅ Clean, modern UI with **Streamlit**  
 ✅ Easily deployable on **Streamlit Cloud**
 
